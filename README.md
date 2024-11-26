@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahim Arif</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amahim&label=Profile%20views&color=0e75b6&style=flat" alt="amahim" /> </p>
 
@@ -25,3 +25,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amahim&show_icons=true&locale=en" alt="amahim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amahim&" alt="amahim" /></p>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
