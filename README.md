@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahim Arif</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A motivated web developer focused on delivering efficient and visually appealing solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amahim&label=Profile%20views&color=0e75b6&style=flat" alt="amahim" /> </p>
 
