@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/mahim.arif2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahim.arif2" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/arif-mahim-73743515a/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="arif-mahim" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arif-mahim-73743515a/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="arif-mahim" height="50" width="40" /></a>
 <a href="https://www.youtube.com/c/erroratline69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="erroratline69" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mahim_siu7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mahim_siu7" height="30" width="40" /></a>
 </p>
