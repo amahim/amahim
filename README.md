@@ -5,7 +5,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://amahim.netlify.app](https://mahimarif.netlify.app)
+- 👨‍💻 My Portfolio [https://amahim.netlify.app](https://mahimarif.netlify.app)
 
 - 📫 How to reach me **arifbin71@gmail.com**
 
