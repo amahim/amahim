@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/arifmahim/" target="_blank">
     <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" height="40" width="40"/>
   </a>
-  <a href="https://www.youtube.com/c/erroratline69" target="_blank">
+  <a href="https://www.youtube.com/@MahimArif02" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
   </a>
   <a href="https://codeforces.com/profile/mahim_siu7" target="_blank">
